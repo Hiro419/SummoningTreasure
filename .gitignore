@@ -73,3 +73,5 @@ SummonTreasure/Intermediate/*
 
 # Cache files for the editor to use
 SummonTreasure/DerivedDataCache/*
+SummonTreasure/Content/SummoningTreasure.umap
+SummonTreasure/Content/SummoningTreasure.umap
